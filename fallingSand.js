@@ -3,7 +3,7 @@ const width = 700;
 const height = 700;
 let isDrawing = false;
 let lastTime = 0;
-const interval = 50;
+const interval = 10;
 
 
 function createCanvas(width , height){
